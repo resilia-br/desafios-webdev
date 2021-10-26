@@ -1,4 +1,4 @@
 # Desafios - Full-stack
 
-Idioma | Stack | Link
-:---:|---|:---:
+Idioma | Dificuldade | Stack | Link
+:---:|:---:|---|:---:
