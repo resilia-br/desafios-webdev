@@ -1,4 +1,4 @@
 # Desafios - Front-end
 
-Idioma | Stack | Link
-:---:|---|:---:
+Idioma | Dificuldade | Stack | Link
+:---:|:---:|---|:---:
