@@ -5,3 +5,4 @@ Idioma | Dificuldade | Stack | Link
 Português BR | Junior | Python | https://github.com/MaisTodos/backend-python-wallet
 Português BR | Junior | Livre | https://github.com/backend-br/desafios/tree/master/1%20-%20Easy/Encurtador%20de%20URL
 Português BR | Junior/Pleno | Livre | https://github.com/cyberlabsai/desafios-backend
+Português BR | Junior/Pleno | NodeJS | https://github.com/Ubistart/nodejs-backend-challenge
