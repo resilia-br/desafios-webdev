@@ -7,6 +7,10 @@ Os desafios estão separados em:
 - [Back-end](back-end/README.md)
 - [Full-stack](full-stack/README.md)
 
+## Soluções dos desafios
+
+Nesse link você pode encontrar a [lista de soluções](solutions.md)
+
 ## Como adicionar um desafio?
 
 Ao criar um PR utilize o seguinte padrão para o título:
