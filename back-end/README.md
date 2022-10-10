@@ -7,3 +7,4 @@ PT-BR | Junior | Livre | https://github.com/backend-br/desafios/tree/master/1%20
 PT-BR | Junior/Pleno | Livre | https://github.com/cyberlabsai/desafios-backend
 PT-BR | Junior/Pleno | NodeJS | https://github.com/Ubistart/nodejs-backend-challenge
 PT-BR | Junior | Ruby | https://github.com/Pagnet/desafio-back-end
+PT-BR | Junior/Pleno | PHP | https://github.com/PicPay/picpay-desafio-backend
