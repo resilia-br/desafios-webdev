@@ -7,4 +7,4 @@ PT-BR | Junior/Pleno | Livre | https://github.com/dpcdistribuidor/Desafio-Fullst
 PT-BR | Junior/Pleno | React.js, Node.js | https://github.com/Maxxidata/fullstack-challenge
 PT-BR | Junior/Pleno | MongoDB, Express.js, React.js e Node.js | https://github.com/RoutEasy/challenge-fullstack
 PT-BR | Junior | Livre | https://github.com/CustomerX-CX/desafio-fullstack-junior
-
+PT-BR | Junior | Livre | https://github.com/estudarcomvoce/fullstack-challenge
